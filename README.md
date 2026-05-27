@@ -32,7 +32,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliordzcer&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliordzcer&layout=compact&theme=github_dark&hide_border=true&langs_count=5" height="150"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliordzcer/juliordzcer/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliordzcer/juliordzcer/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/juliordzcer/juliordzcer/output/github-snake.svg"/>
+</picture>
