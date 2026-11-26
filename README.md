@@ -31,6 +31,7 @@ My research focuses on **cooperative control of multi-UAV systems** using only b
 
 **Publications**
 
+- Bearing Estimation on S² Via Tangent-Space Measurements for UAV Formation Control — *IEEE CCE 2026*
 - Bearing-Only Super-Twisting Control for Multi-Quadrotor Formations — *IEEE CCE 2025*
 - Formation Control Design for Multi-Quad-Rotors with Experimental Validation — *CNCA 2023*
 - Diseño de Control de Formación basado en Modos Deslizantes para un Grupo de Quad-Rotors — *COMRob 2023*
